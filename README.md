@@ -14,12 +14,10 @@ Thus, I've decided to set up this template to make the process a bit smoother.
 ## Usage
 
 > [!NOTE]
-> The instructions below apply as of Godot 4.4.
+> This is the **4.4** branch of the template, with a project preconfigured.
 
 1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository. Rename it in accordance with your project.
-2. Open [Godot Engine](https://godotengine.org). From the Project Manager screen, click **Create**.
-3. Ensure the "Create Folder" option is **disabled**.
-4. Name your project as you like.
-5. Select the `src` directory as the **Project Path**.
-6. Ensure **Git** is selected under "Version Control Metadata".
-7. Create the project!
+2. Open [Godot Engine](https://godotengine.org). From the Project Manager screen, click **Import**.
+3. Select the `src` directory as the **Project Path**. Ensure **Edit Now** is unchecked.
+4. Rename the project as you like.
+5. Open the project and start editing!
