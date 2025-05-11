@@ -23,3 +23,4 @@ Thus, I've decided to set up this template to make the process a bit smoother.
 5. Select the `src` directory as the **Project Path**.
 6. Ensure **Git** is selected under "Version Control Metadata".
 7. Create the project!
+8. Feel free to delete the `README.md` that was in the `src` directory.
